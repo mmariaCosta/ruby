@@ -1,2 +1,2 @@
 # ruby
-repositório de aprendizado na linguagem Ruby
+repositório de aprendizado na linguagem Ruby, muito interresante
